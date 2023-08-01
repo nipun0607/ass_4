@@ -12,3 +12,4 @@ Note : There are 2 files
 'p' is used to paragraph
 'h3'is used to create 2nd heading.
 'div'tag is used for containg other tag.
+div tag is a container tag
